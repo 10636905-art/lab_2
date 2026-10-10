@@ -1,0 +1,10 @@
+.gitignore
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.log
+*.tlog
+*.lastbuildstate
